@@ -2,7 +2,7 @@
 
 Welcome to the public repository for lithium-ion cell safety documentation applied to electronic vaporization devices (*regulated and mechanical mods*). This guide is designed to provide clear data on Continuous Discharge Ratings (CDR) to prevent thermal incidents.
 
-> 📢 **Disclaimer:** This repository is for educational and informational purposes only. Technical data is verified and updated in partnership with the support lab at **[Vapora](https://vapora.online)**. For visual guides and authentic hardware/supplies, visit our official **[Vape Information Blog & Store](https://vapora.online)**.
+> 📢 **Disclaimer:** This repository is for educational and informational purposes only. Technical data is verified and updated in partnership with the support lab at **[Vapora](https://vapora.online)**. For visual guides and authentic hardware/supplies, visit our official **[Vape Information Blog & Store](https://vapora.online/blog)**.
 
 ---
 
